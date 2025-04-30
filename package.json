@@ -1,0 +1,11 @@
+{
+  "name": "com.taptap.sdk.review",
+  "displayName": "TapTapSDK Review",
+  "description": "TapTapSDK Review",
+  "version": "4.6.1-beta.9",
+  "unity": "2019.4",
+  "license": "MIT",
+  "dependencies": {
+    "com.taptap.sdk.core": "4.6.1-beta.9"
+  }
+}
